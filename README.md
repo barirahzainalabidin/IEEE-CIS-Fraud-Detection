@@ -57,9 +57,9 @@ This project to detect fraud from customer transactions .
 
 - True Positives (1,1): 6,660 fraudulent transactions correctly caught ( fraud )
 
-- False Positives (0,1): 800 legitimate transactions incorrectly flagged as fraud ( the model made a mistake )
+- False Positives (0,1): 800 legitimate transactions incorrectly flagged as fraud ( error )
 
-- False Negatives (1,0): 8,837 fraudulent transactions missed ( the model made a mistake )
+- False Negatives (1,0): 8,837 fraudulent transactions missed ( error )
 
 
 
