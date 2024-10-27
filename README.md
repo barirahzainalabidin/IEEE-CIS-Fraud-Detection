@@ -1,5 +1,4 @@
 # IEEE-CIS-Fraud-Detection
-Detect fraud from customer transactions
 
 
 Dataset - https://www.kaggle.com/competitions/ieee-fraud-detection/leaderboard
